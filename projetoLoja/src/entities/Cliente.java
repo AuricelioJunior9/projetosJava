@@ -9,7 +9,6 @@ public class Cliente {
 	private Date dataNascimento;
 	
 	Cliente(){
-		
 	}
 	
 	public Cliente(String name, String email, Date dataNascimento) {
@@ -41,9 +40,6 @@ public class Cliente {
 	public void setDataNascimento(Date dataNascimento) {
 		this.dataNascimento = dataNascimento;
 	}
-	
-	
-	
 	
 	
 }
